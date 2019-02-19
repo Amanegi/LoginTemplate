@@ -1,6 +1,6 @@
 # LoginTemplate
 Practice of implementing a code from github
 
-![](screenshots/image1.png)
-![](screenshots/image2.png)
-![](screenshots/image3.png)
+<img src="screenshots/image1.png" width="300">
+<img src="screenshots/image2.png" width="300">
+<img src="screenshots/image3.png" width="300">
