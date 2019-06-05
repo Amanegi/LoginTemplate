@@ -1,4 +1,4 @@
-package com.example.logintemplate2;
+package com.example.logintemplate;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
@@ -14,11 +14,13 @@ import android.os.Handler;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.view.ViewAnimationUtils;
 import android.view.ViewGroup;
+import android.view.animation.AnimationUtils;
 
-import com.example.logintemplate2.databinding.ActivityMainBinding;
+import com.example.logintemplate.databinding.ActivityMainBinding;
 
 import static android.view.View.INVISIBLE;
 import static android.view.View.VISIBLE;

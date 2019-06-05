@@ -1,4 +1,4 @@
-package com.example.logintemplate2;
+package com.example.logintemplate;
 
 import org.junit.Test;
 

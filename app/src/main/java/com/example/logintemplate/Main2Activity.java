@@ -1,11 +1,11 @@
-package com.example.logintemplate2;
+package com.example.logintemplate;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.databinding.DataBindingUtil;
 
 import android.os.Bundle;
 
-import com.example.logintemplate2.databinding.ActivityMain2Binding;
+import com.example.logintemplate.databinding.ActivityMain2Binding;
 
 public class Main2Activity extends AppCompatActivity {
     private ActivityMain2Binding main2Binding;
@@ -22,4 +22,5 @@ public class Main2Activity extends AppCompatActivity {
 
         main2Binding.textView.setText("Hello " + username + " !\nYour password is " + password);
     }
+
 }
